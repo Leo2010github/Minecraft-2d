@@ -1,0 +1,17 @@
+body{
+    background-image: url("FMinecraft.jpg");
+    background-size: cover;
+    font-family: 'Bruno Ace SC', cursive;
+}
+#Titulo{
+    width: 1000px;
+}
+#Controles{
+    width: 400px;
+}
+#canvas{
+    background-color: white;
+    border-color: rgb(115, 255, 0);
+    border-width: 10px;
+    border-style: groove;
+}
